@@ -1,4 +1,4 @@
-# Exercícios de JavaScript 📘
+# Lógica de Programação em JavaScript 📘
 
 Este repositório contém uma série de exercícios práticos em JavaScript, focando em conceitos básicos de lógica de programação, como sequências lógicas, algoritmos e estruturas de controle.
 
